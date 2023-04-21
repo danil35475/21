@@ -1,0 +1,32 @@
+h1{
+    color: aqua;
+    size: 50px;
+    text-align: center;
+}
+
+p{
+    width: 100%;
+    height: 350px;
+    background-color: chartreuse;
+}
+
+h2{
+    width: 100%;
+    height: 350px;
+    background-color: deeppink;
+}
+
+h3{
+    width: 100%;
+    height: 350px;
+    background-color: green;
+}
+
+a{
+    text-size-adjust: 150px;
+    color: black;
+}
+
+body{
+    background-color: darkkhaki;
+}
